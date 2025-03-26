@@ -40,6 +40,6 @@ Armazena-as em uma pilha e depois as exibe em ordem inversa.
 
 Observação: Esses arquivos foram desenvolvidos originalmente no Dev-C++, mas podem ser usados em outros compiladores/IDEs.
 
-No VS Code : Instale a xtensão C/C++ e um compilador (ex: MinGW no Windows).
+No VS Code : Instale a extensão C/C++ e um compilador (ex: MinGW no Windows).
 
 ✂️ Nota: Todos os arquivos dependem do pilha.h para funcionar. Certifique-se de que ele está no mesmo diretório durante a compilação.
